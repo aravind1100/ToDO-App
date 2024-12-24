@@ -1,0 +1,115 @@
+.card-footer {
+  background-color: transparent;
+  border-top: none;
+}
+.form-label {
+  font-size: 1.3rem;
+}
+
+.form-select {
+  width: auto;
+}
+
+select {
+  margin-left: 10px;
+}
+
+.card {
+  min-width: 300px;
+  max-width: 350px;
+  min-height: 360px;
+  background-color: #ccf5d3;
+  margin: 45px;
+}
+.card-title {
+  margin-top: 80px;
+}
+
+.card-text {
+  font-size: 1.3rem;
+}
+.btn-secondary {
+  padding: 7px;
+  min-width: 100px;
+  cursor: pointer;
+  background-color: #13ad89;
+  margin: 7px;
+}
+.btn-secondary:hover {
+  background-color: green;
+}
+
+.btn-danger {
+  margin: 7px;
+  padding: 7px;
+  min-width: 100px;
+  cursor: pointer;
+}
+
+h1 {
+  color: #4aa58e;
+  text-align: center;
+  margin: 100px;
+}
+
+.mytodos {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-left: 50px;
+}
+
+.status {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+#options {
+  background-color: #fe7f80;
+  padding: 5px;
+  cursor: pointer;
+}
+.btn-primary {
+  padding: 11px;
+  font-weight: bold;
+  min-width: 150px;
+  cursor: pointer;
+  background-color: #13ad89;
+  margin: 20px;
+}
+
+.btn-primary:hover {
+  background-color: green;
+}
+.add-button:hover {
+  background-color: green;
+}
+
+.initialName,
+.initialDescription {
+  padding: 10px;
+  border: 2px solid #4aa58e;
+  box-shadow: #4aa58e;
+  border-radius: 5px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.2rem;
+  min-width: 300px;
+  margin: 20px;
+}
+ol {
+  padding: 0;
+}
+li {
+  font-size: 2rem;
+  font-weight: bold;
+  background-color: aliceblue;
+  margin-bottom: 10px;
+  border: 3px solid black;
+  border-radius: 5px;
+  display: flex;
+  padding: 20px;
+  align-items: center;
+}
+
+.text {
+  flex: 1;
+}
